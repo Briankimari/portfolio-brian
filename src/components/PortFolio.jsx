@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import brian from '../components/data/about.png' 
 import brian1 from '../components/data/brian.jpg'
 import {AiFillGithub, AiOutlineMail, AiOutlineMenu} from 'react-icons/ai'
 import {FaFacebookF} from 'react-icons/fa'
@@ -80,7 +79,7 @@ const PortFolio = () => {
                 </p>
                 <div className='btn-box'>
                     <a href='mailto:briankim7587@gmail.com' className='btn'>Hire Me</a>
-                    <a href="https://wa.me/25498163231/?text=Hello,Thenkie for reaching me here,now let's talk
+                    <a href="https://wa.me/0743810773/?text=Hello,Thenkie for reaching me here,now let's talk
                      about the Business" className='btn'>Let's Talk</a>
 
                 </div>
@@ -117,7 +116,7 @@ const PortFolio = () => {
                  &#160;
                  My main focus these days is building accessible ,inclusive products and
                  digital experiences at <span>Upstatement</span> for a variety of clients.
-                 I have a couple of some of the projects posed on my <span>github</span>
+                 I have  couple of my projects posted on my <span>github</span>
                  &#160; account.
                     
              </p>
@@ -142,7 +141,7 @@ const PortFolio = () => {
                         <div className="education-content">
                             <div className="content">
                                 <div className="year"> <i> <i><BsFillCalendar2DateFill size={18}/></i></i> 2019-2020</div>
-                                <h3>Diploma Certificate - Collage</h3>
+                                <h3>Diploma Certificate - College</h3>
                                 <p>
                                    Back in 2019,i chose to learn Web Development & Design,I found
                                    Web Development interesting bacause a web-based application or even just
@@ -161,7 +160,7 @@ const PortFolio = () => {
                           <div className="education-content">
                             <div className="content">
                                 <div className="year"> <i> <i><BsFillCalendar2DateFill size={18}/></i></i> 2020-2021</div>
-                                <h3>My Own Projects - Collage</h3>
+                                <h3>My Own Projects - College</h3>
                                 <p>
                                     After an year of learning Web Development, I gained knowledge to start
                                     my own projects for practices.In my opinion, the best part of the Web Development
@@ -176,7 +175,7 @@ const PortFolio = () => {
                           <div className="education-content">
                             <div className="content">
                                 <div className="year"> <i> <i><BsFillCalendar2DateFill size={18}/></i></i> 2021-2022</div>
-                                <h3>InternShip & Attachments - Collage</h3>
+                                <h3>InternShip & Attachments - College</h3>
                                 <p>
                                 During my 1<sup>st</sup> semister, i was very intersted in taking up an attachment
                                 in one of the Web Development company so that i could increase
@@ -328,14 +327,14 @@ const PortFolio = () => {
                 Contant me through the following platforms!
                 Click on the <span>icons below</span> 
                 &#160; to be redirected to
-                my social platforms,Thenkie for getting in-contact with me!!
+                my social platforms,Thenkie for getting in-touch with me!!
                 <div className='thanks'>
                      <span className='know' >Let's Know each other!!</span>
                 </div>
                    
             </p>
               <div className='icon-me'>
-                <a href="https://wa.me/25498163231/?text=Hello,Thenkie for reaching me here,now let's talk about the Business"><i> <BsWhatsapp/> </i></a>
+                <a href="https://wa.me/0743810773/?text=Hello,Thenkie for reaching me here,now let's talk about the Business"><i> <BsWhatsapp/> </i></a>
                <a href='mailto:briankim7587@gmail.com'><i><AiOutlineMail/></i></a>
                <a href='https://github.com/Briankimari/farm-management-app'><i><AiFillGithub/></i></a>
               
