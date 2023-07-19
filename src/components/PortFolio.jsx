@@ -79,17 +79,21 @@ const PortFolio = () => {
                 </p>
                 <div className='btn-box'>
                     <a href='mailto:briankim7587@gmail.com' className='btn'>Hire Me</a>
-                    <a href="https://wa.me/0743810773/?text=Hello,Thenkie for reaching me here,now let's talk
+                    <a href="https://wa.me/254743810773/?text=Hello,Thenkie for reaching me here,now let's talk
                      about the Business" className='btn'>Let's Talk</a>
 
                 </div>
             </div>
+        
             <div className='home-sci'>
                 <a href='https://msng.link/o/?BryanBandi=fm'><i> <FaFacebookF/> </i></a>
-               <a href='https://www.twitter.com'><i><BsTwitter/></i></a>
+              
+                    <a href="https://twitter.com/intent/tweet?screen_name=TwitterDev&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false"><i><BsTwitter/></i></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
                <a href='https://www.linkedin.com'><i><BsLinkedin/></i></a>
               
             </div>
+            
             <div className='home-imgHover'></div>
         </section>
         {/* about section */}
@@ -334,7 +338,7 @@ const PortFolio = () => {
                    
             </p>
               <div className='icon-me'>
-                <a href="https://wa.me/0743810773/?text=Hello,Thenkie for reaching me here,now let's talk about the Business"><i> <BsWhatsapp/> </i></a>
+                <a href="https://wa.me/254743810773/?text=Hello,Thenkie for reaching me here,now let's talk about the Business"><i> <BsWhatsapp/> </i></a>
                <a href='mailto:briankim7587@gmail.com'><i><AiOutlineMail/></i></a>
                <a href='https://github.com/Briankimari/farm-management-app'><i><AiFillGithub/></i></a>
               
@@ -367,6 +371,9 @@ const PortFolio = () => {
         <footer className="footer">
             <div className="text">
                 <p>Copyright &copy; 2023 by Brian Bandi | All Right Reserved.</p>
+                <p style={{
+                    color:'#00abf0',textDecoration:'underline'
+                }}>twitter @kimaribandi</p>
             </div>
             <div className="footer-iconTop">
                <a href="#"><i><MdArrowUpward size={20}/></i></a>
